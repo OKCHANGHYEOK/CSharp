@@ -1,0 +1,14 @@
+C:\Users\dkdld\Desktop\C#공부\Day01\HelloCSharp\bin\Debug\net8.0\HelloCSharp.exe
+C:\Users\dkdld\Desktop\C#공부\Day01\HelloCSharp\bin\Debug\net8.0\HelloCSharp.deps.json
+C:\Users\dkdld\Desktop\C#공부\Day01\HelloCSharp\bin\Debug\net8.0\HelloCSharp.runtimeconfig.json
+C:\Users\dkdld\Desktop\C#공부\Day01\HelloCSharp\bin\Debug\net8.0\HelloCSharp.dll
+C:\Users\dkdld\Desktop\C#공부\Day01\HelloCSharp\bin\Debug\net8.0\HelloCSharp.pdb
+C:\Users\dkdld\Desktop\C#공부\Day01\HelloCSharp\obj\Debug\net8.0\HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkdld\Desktop\C#공부\Day01\HelloCSharp\obj\Debug\net8.0\HelloCSharp.AssemblyInfoInputs.cache
+C:\Users\dkdld\Desktop\C#공부\Day01\HelloCSharp\obj\Debug\net8.0\HelloCSharp.AssemblyInfo.cs
+C:\Users\dkdld\Desktop\C#공부\Day01\HelloCSharp\obj\Debug\net8.0\HelloCSharp.csproj.CoreCompileInputs.cache
+C:\Users\dkdld\Desktop\C#공부\Day01\HelloCSharp\obj\Debug\net8.0\HelloCSharp.dll
+C:\Users\dkdld\Desktop\C#공부\Day01\HelloCSharp\obj\Debug\net8.0\refint\HelloCSharp.dll
+C:\Users\dkdld\Desktop\C#공부\Day01\HelloCSharp\obj\Debug\net8.0\HelloCSharp.pdb
+C:\Users\dkdld\Desktop\C#공부\Day01\HelloCSharp\obj\Debug\net8.0\HelloCSharp.genruntimeconfig.cache
+C:\Users\dkdld\Desktop\C#공부\Day01\HelloCSharp\obj\Debug\net8.0\ref\HelloCSharp.dll

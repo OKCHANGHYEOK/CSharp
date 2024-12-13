@@ -1,0 +1,15 @@
+C:\Users\dkdld\Desktop\C#공부\Day03\Caculator\obj\Debug\net8.0\Caculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkdld\Desktop\C#공부\Day03\Caculator\obj\Debug\net8.0\Caculator.AssemblyInfoInputs.cache
+C:\Users\dkdld\Desktop\C#공부\Day03\Caculator\obj\Debug\net8.0\Caculator.AssemblyInfo.cs
+C:\Users\dkdld\Desktop\C#공부\Day03\Caculator\obj\Debug\net8.0\Caculator.csproj.CoreCompileInputs.cache
+C:\Users\dkdld\Desktop\C#공부\Day03\Caculator\obj\Debug\net8.0\Caculator.sourcelink.json
+C:\Users\dkdld\Desktop\C#공부\Day03\Caculator\bin\Debug\net8.0\Caculator.exe
+C:\Users\dkdld\Desktop\C#공부\Day03\Caculator\bin\Debug\net8.0\Caculator.deps.json
+C:\Users\dkdld\Desktop\C#공부\Day03\Caculator\bin\Debug\net8.0\Caculator.runtimeconfig.json
+C:\Users\dkdld\Desktop\C#공부\Day03\Caculator\bin\Debug\net8.0\Caculator.dll
+C:\Users\dkdld\Desktop\C#공부\Day03\Caculator\bin\Debug\net8.0\Caculator.pdb
+C:\Users\dkdld\Desktop\C#공부\Day03\Caculator\obj\Debug\net8.0\Caculator.dll
+C:\Users\dkdld\Desktop\C#공부\Day03\Caculator\obj\Debug\net8.0\refint\Caculator.dll
+C:\Users\dkdld\Desktop\C#공부\Day03\Caculator\obj\Debug\net8.0\Caculator.pdb
+C:\Users\dkdld\Desktop\C#공부\Day03\Caculator\obj\Debug\net8.0\Caculator.genruntimeconfig.cache
+C:\Users\dkdld\Desktop\C#공부\Day03\Caculator\obj\Debug\net8.0\ref\Caculator.dll
